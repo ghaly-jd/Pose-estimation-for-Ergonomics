@@ -32,7 +32,7 @@ This project uses MediaPipe pose estimation to analyze your posture in real-time
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/ghaly-jd/Pose-estimation-for-Ergonomics)
    cd Pose-estimation-for-Ergonomics
    ```
 

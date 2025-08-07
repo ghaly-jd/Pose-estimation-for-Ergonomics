@@ -6,6 +6,9 @@ A real-time pose estimation tool that detects poor posture using computer vision
 
 This project uses MediaPipe pose estimation to analyze your posture in real-time, providing instant feedback on whether you're maintaining good posture or slouching. Perfect for remote workers, students, or anyone who spends long hours at a desk.
 
+
+https://github.com/user-attachments/assets/34a7f8d9-16d6-4ef9-adec-2c7ad09e0921
+
 ## ✨ Features
 
 - **Real-time Pose Detection**: Uses MediaPipe to detect 33 body landmarks
